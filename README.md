@@ -8,7 +8,7 @@ Building at the intersection of AI, embedded systems, and power engineering.
 
 ## Projects
 
-### 🔍 RAG from Scratch
+### RAG from Scratch
 A fully working Retrieval-Augmented Generation system built in pure Python — no LangChain, no SDKs.
 
 - Parent-child chunking, pgvector hybrid storage, query rewriting, conversation memory
@@ -19,7 +19,7 @@ A fully working Retrieval-Augmented Generation system built in pure Python — n
 
 ---
 
-### 🤖 Bimanual Cloth Folding (ICRA 2026 — LeHome Challenge)
+### Bimanual Cloth Folding (ICRA 2026 — LeHome Challenge)
 Trained vision-language-action models for bimanual robotic garment manipulation.
 
 - Trained ACT, Diffusion Policy, and SmolVLA on cloth folding tasks in Isaac Lab simulation
