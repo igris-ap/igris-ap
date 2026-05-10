@@ -52,5 +52,7 @@ Trained vision-language-action models for bimanual robotic garment manipulation.
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aarya--patankar-blue?style=flat&logo=linkedin)](www.linkedin.com/in/aarya-patankar-91145b398)
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aarya--patankar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aarya-patankar-91145b398)
 [![Email](https://img.shields.io/badge/Email-aarya_r_patankar%40yahoo.com-red?style=flat&logo=yahoo)](mailto:aarya_r_patankar@yahoo.com)
